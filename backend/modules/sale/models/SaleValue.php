@@ -7,7 +7,7 @@ use yii\data\ActiveDataProvider;
 use yii\helpers\ArrayHelper;
 
 /**
- * CatalogPropertyValue
+ * SaleValue
  */
 class SaleValue extends \common\modules\sale\models\SaleValue
 {
